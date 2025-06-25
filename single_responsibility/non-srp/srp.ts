@@ -43,7 +43,6 @@ Payment processes Successfully!..
 Added to accounting system!...
  */
 
-/**
  Summary:
     our current Order class does not fully follow the Single Responsibility Principle (SRP).
 
