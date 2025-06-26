@@ -577,16 +577,16 @@ mindmap
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/solid-principles-examples.git
+git clone https://github.com/manish0502/SOLID_Principles.git
 
 # Navigate to project directory
-cd solid-principles-examples
+cd SOLID_Principles
 
 # Install dependencies
-npm install
+npm install --save-dev typescript ts-node
 
 # Run examples
-npm start
+npx ts-node srp.ts
 ```
 
 ### 🏃‍♂️ Quick Start
