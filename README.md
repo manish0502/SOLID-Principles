@@ -289,6 +289,7 @@ function moveBird(bird) {
 
 </details>
 
+
 ---
 
 ### 4️⃣ Interface Segregation Principle (ISP)
