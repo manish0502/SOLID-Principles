@@ -59,7 +59,8 @@ class AreaCalculator2 {
 class Hexagon extends Shape {
     private side : number;
     private apothem : number 
-
+  
+    
     constructor(side ,apothem){
         super();
         this.side = side ;
