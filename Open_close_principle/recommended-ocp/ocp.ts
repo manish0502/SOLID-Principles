@@ -67,6 +67,7 @@ class Hexagon extends Shape {
         this.apothem = apothem
     }
     calculateArea() {
+        
         return 3*this.side *this.apothem
     }
 }
