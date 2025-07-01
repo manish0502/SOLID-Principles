@@ -54,6 +54,7 @@ class AreaCalculator2 {
       },0)
     }
   }
+  
 
 // Easy to extend with new shapes without modifying existing code!
 class Hexagon extends Shape {
@@ -67,7 +68,7 @@ class Hexagon extends Shape {
         this.apothem = apothem
     }
     calculateArea() {
-        
+
         return 3*this.side *this.apothem
     }
 }
