@@ -54,13 +54,12 @@ class AreaCalculator2 {
       },0)
     }
   }
-  
+
 
 // Easy to extend with new shapes without modifying existing code!
 class Hexagon extends Shape {
     private side : number;
     private apothem : number 
-  
     
     constructor(side ,apothem){
         super();
