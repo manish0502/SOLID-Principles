@@ -14,7 +14,7 @@ class Bird {
     }
 }
 
-class Aparrow extends Bird {
+class Sparrow extends Bird {
     fly(){
         console.log("Sparrow fly")
     }
@@ -47,7 +47,7 @@ function makeBirdFly(bird :Bird){
 
 // even we replace with the child class it should works as expected
 
-//makeBirdFly(new Aparrow()) 
+//makeBirdFly(new Sparrow()) 
 /**
  * Sparrow fly
    Sparrow Sound
