@@ -7,6 +7,8 @@ Definition:
 In Simple Terms:
     It's better to have several small, specific interfaces than a large, general-purpose one.
     Classes should only implement methods that are relevant to them.
+
+ Example: Violating ISP
+          Suppose you have a single interface for all birds:
  */
 
-    
