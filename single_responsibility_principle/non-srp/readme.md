@@ -26,6 +26,7 @@ export class Product {
 }
 ```
 
+
 #### Order Class (Current Implementation)
 The `Order` class currently handles multiple responsibilities:
 - **Product Management**: Adding, removing, and retrieving products
